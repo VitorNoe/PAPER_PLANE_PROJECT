@@ -1,10 +1,20 @@
 # ✈️ PAPER PLANE PROJECT 
-
 *A Scientific and Creative Pursuit of Perfecting Paper Aviation*
-
 ---
 
 ## 🎯 Project Overview  
+**Experimental Test Visuals**  
+<div style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 1rem; padding: 1rem 0; margin: 2rem 0;">
+  <img src="images/20250403_190940.jpg" 
+       alt="Flight Test - Morning Session" 
+       style="scroll-snap-align: start; flex: 0 0 90%; height: 400px; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+       
+  <img src="images/20250403_190951.jpg" 
+       alt="Aerodynamic Comparison Test" 
+       style="scroll-snap-align: start; flex: 0 0 90%; height: 400px; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
+<p style="text-align: center; font-style: italic; color: #666;">← Scroll to view different test phases →</p>
+
 This open-source initiative aims to engineer **the ultimate paper airplane** through systematic experimentation, iterative design, and data-driven analysis. We're exploring the intersection of aerodynamics, material science, and artistic expression to dominate three key performance categories:
 
 **🏆 Core Objectives**  
