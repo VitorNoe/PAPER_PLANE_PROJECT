@@ -15,6 +15,21 @@
 </div>
 <p style="text-align: center; font-style: italic; color: #666;"></p>
 
+
+**Time Distribution Table:**
+| Test # | Duration (s) | Air Current | Paper Weight | Fold Precision |
+|--------|--------------|-------------|--------------|----------------|
+| 001    | 4.9          | Still       | 80gsm        | 98%            |
+| 002    | 5.2          | 0.2m/s↑     | 80gsm        | 95%            |
+| 003    | 4.7          | 0.5m/s→     | 100gsm       | 90%            |
+
+**Key Observations:**  
+- Optimal performance at 80gsm paper weight  
+- ±0.3s variance due to fold consistency  
+- 12% improvement over baseline model
+
+---
+
 This open-source initiative aims to engineer **the ultimate paper airplane** through systematic experimentation, iterative design, and data-driven analysis. We're exploring the intersection of aerodynamics, material science, and artistic expression to dominate three key performance categories:
 
 **🏆 Core Objectives**  
