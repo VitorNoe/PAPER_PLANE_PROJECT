@@ -17,11 +17,11 @@
 
 
 **Time Distribution Table:**
-| Test # | Duration (s) | Air Current | Paper Weight | Fold Precision |
+| Test # | Duration (s) | Distance (m) | Paper Weight | Fold Precision |
 |--------|--------------|-------------|--------------|----------------|
-| 001    | 4.9          | Still       | 80gsm        | 98%            |
-| 002    | 5.2          | 0.2m/s↑     | 80gsm        | 95%            |
-| 003    | 4.7          | 0.5m/s→     | 100gsm       | 90%            |
+| 001    | 4.9          | 68 m       | 80gsm        | 98%            |
+| 002    | 5.2          | 80 m     | 80gsm        | 95%            |
+| 003    | 4.7          | 74 m    | 100gsm       | 90%            |
 
 **Key Observations:**  
 - Optimal performance at 80gsm paper weight  
