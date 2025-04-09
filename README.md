@@ -93,7 +93,7 @@ We welcome:
 
 ---
 
-## Contributions:
+## Contributors:
 - Vítor Luciano Cardoso Noé
 - Vicente de souza
 - Francisco Arend Mattje
