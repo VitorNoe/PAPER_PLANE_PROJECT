@@ -93,5 +93,11 @@ We welcome:
 
 ---
 
+## Contributions:
+- Vítor Luciano Cardoso Noé
+- Vicente de souza
+- Francisco Arend Mattje
+
+---
 ## 📜 License  
 This project operates under [MIT License](LICENSE.md), with all designs and data publicly available for non-commercial use.
